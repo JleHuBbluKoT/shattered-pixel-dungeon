@@ -329,6 +329,7 @@ public abstract class Actor implements Bundlable {
 			}
 		}
 	}
+
 	
 	public static synchronized Char findChar( int pos ) {
 		for (Char ch : chars){
